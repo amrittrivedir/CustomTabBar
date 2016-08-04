@@ -3,9 +3,9 @@ I developed a CustomTabbar for one of our Swift projects currently running at Sp
 
 I’ve to work hard to develop this custom side menu in Swift, so I thought to share it with you guys so you can easily implement it hassle-free later on.  
 
-Check this Swift Tutorial on How to Create a CustomTabbar or Side Menu with One Common Code Structure?
+Check this Swift Tutorial on [How to Create a CustomTabbar or Side Menu with One Common Code Structure?](https://www.spaceotechnologies.com/swift-tutorial-create-customtabbar-side-menu-one-common-code-structure/)
 
-Please do ask me if you've any questions related to Swift development or want to hire Swift developer, who can dedicatedly work on your project.     
+Please do ask me if you've any questions related to Swift development or want to [hire Swift developer](https://www.spaceotechnologies.com/hire-swift-developer/), who can dedicatedly work on your project.     
 
 ##CustomLayouts
 ###Easily create your custom tab bar or side menu with one common code structure.<br />
