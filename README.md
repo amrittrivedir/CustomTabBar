@@ -1,5 +1,11 @@
 # CustomTabBar
-Create your own unique custom TabBar OR SideMenu with custom segue classes. 
+I developed a CustomTabbar for one of our Swift projects currently running at Space-O Technologies. 
+
+I’ve to work hard to develop this custom side menu in Swift, so I thought to share it with you guys so you can easily implement it hassle-free later on.  
+
+Check this Swift Tutorial on How to Create a CustomTabbar or Side Menu with One Common Code Structure?
+
+Please do ask me if you've any questions related to Swift development or want to hire Swift developer, who can dedicatedly work on your project.     
 
 ##CustomLayouts
 ###Easily create your custom tab bar or side menu with one common code structure.<br />
